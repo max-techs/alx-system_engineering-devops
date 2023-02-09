@@ -1,6 +1,6 @@
-#Shell, permissions
+# Shell, permissions
 
-##Permissions
+## Permissions
 
 * What do the commands chmod, sudo, su, chown, chgrp do
 
